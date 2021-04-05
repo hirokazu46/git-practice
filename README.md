@@ -4,4 +4,4 @@ localリポで変更
 changed at rebase-practice 
 changed at rebase-practice (more changed)
 stash練習
-stash練習 trach済み
+stash練習 2nd変更
