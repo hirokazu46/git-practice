@@ -3,3 +3,4 @@
 localリポで変更				
 changed at rebase-practice 
 changed at rebase-practice (more changed)
+stash練習
